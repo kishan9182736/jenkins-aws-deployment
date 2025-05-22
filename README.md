@@ -117,13 +117,7 @@ You now have a publicly accessible Jenkins server on AWS. Save this `README.md` 
 
 ---
 
-## 📷 (Optional) Add Screenshots
 
-* Jenkins Login Page
-* Jenkins Dashboard
-* EC2 Security Group Inbound Rules
-
----
 
 ✅ Done! You just learned how to **set up and deploy Jenkins on AWS EC2** and access it from anywhere in the world.
 
@@ -131,6 +125,8 @@ You now have a publicly accessible Jenkins server on AWS. Save this `README.md` 
 
 ---
 
-Would you like me to also generate this as a `.md` file and script to upload to GitHub for you?
-```
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
 
